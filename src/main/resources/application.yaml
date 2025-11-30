@@ -25,6 +25,3 @@ fred:
   base-url: "https://api.stlouisfed.org"
   api-key: "6267d95f1575437649ade7f75bd77828"
   m2-series-id: "M2SL"
-
-alpha-vantage:
-  api-key: "XD9UPIN2IZVCGIYA"
